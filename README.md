@@ -8,7 +8,6 @@ View(`META (Facebook)`)
 # installing package for time series analysis
 #######################################
 library(fpp2)
-
 #######################################
 # Creating variables for each stock using closing price
 #######################################
